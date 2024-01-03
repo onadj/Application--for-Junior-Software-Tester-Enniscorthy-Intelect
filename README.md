@@ -5,6 +5,7 @@ Junior Tester Spring Boot Project - Enniscorthy Intellect
 
 Description
 This repository contains a basic Spring Boot project for Intellect, designed specifically for Junior Software Testers in Enniscorthy.
+presentation: https://www.youtube.com/watch?v=HCcsW-VOPik
 
 Getting Started
 Follow these steps to set up and run the project:
